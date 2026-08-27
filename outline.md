@@ -1,11 +1,23 @@
 /# Transformer Lab Outline
 
+## Live Repos
+
+<https://github.com/jamesnavinhill/liquid-primus>
+<https://huggingface.co/jamesnavinhill/liquid-primus>
+
 /## Goals
 
-* Stand up Transformer Lab on-top of our Cloud Compute for research and post-training projects
+* Research and Audit Official and uptodate sources for all vendors and tech included in the project
+* npx install official vendor skills --project scoped (not global)
+* Audit and refresh the current 'Standards' documents after we've decided on frameworks and approaches
+* Create AGENTS.md for t-labs
+* Set up dev cycle, automations, changelogs, arch/contract mapping
+* Hook up monitoring and observability in full parity with existing Tracing system
 * Investigate SkyPilot for use-case and fit
 * Audit full suite of platform credits and existing cloud compute power
 * Exhaust quota, free-tiers, credits to create robust map of compute
+* Stand up Transformer Lab on-top of our Cloud Compute for research and post-training projects
+* Complete coverage for documentation and critical systems testing --DO NOT write trivial useless tests that require constant maintenance
 
 /## Providers with Active Credits:
 
